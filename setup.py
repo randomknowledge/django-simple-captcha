@@ -25,6 +25,6 @@ setup(
         'setuptools',
         'six >=1.2.0',
         'Django >= 1.3',
-        'Pillow >=2.0.0'
+        #'Pillow >=2.0.0'
     ]
 )
